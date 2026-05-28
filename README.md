@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me<br><br>Hi, I’m Tanishq Rajput👨‍💻<br><br>- 🌱 Currently learning: Python & DBMS  <br>- 💡 Interested in: Problem Solving & Mini Projects  <br>- 🧠 Focus: Building strong programming fundamentals  <br>- 📈 Goal: To grow as a developer and build useful real-world applications  <br><br>I believe in **learning by doing and improving daily**.
+ About Me<br><br>Hi, I’m Tanishq Rajput👨‍💻<br><br>- 🌱 Currently learning:JAVA, Python & DBMS  <br>- 💡 Interested in: Problem Solving & Mini Projects  <br>- 🧠 Focus: Building strong programming fundamentals  <br>- 📈 Goal: To grow as a developer and build useful real-world applications  <br><br>I believe in **learning by doing and improving daily**.
 
 
 ## 🌐 Socials:
